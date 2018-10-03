@@ -1,1 +1,1 @@
-FLASK_APP = 1kcicada.py
+FLASK_APP = app.py
